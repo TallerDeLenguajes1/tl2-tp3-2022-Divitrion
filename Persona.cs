@@ -4,4 +4,11 @@ public class Persona
     public string nombre;
     protected string direccion;
     protected string telefono;
+
+    public Persona()
+    {
+        this.nombre="x";
+        this.direccion="direccion";
+        this.telefono="telefonito";
+    }
 }

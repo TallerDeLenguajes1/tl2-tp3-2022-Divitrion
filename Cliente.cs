@@ -1,12 +1,11 @@
 public class Cliente : Persona
 {
     public string DatoReferenciaDireccion;
+    public int cantPedidos;
 
     public Cliente()
     {
-        this.nombre="x";
-        this.direccion="direccion";
-        this.telefono="telefonito";
         this.DatoReferenciaDireccion="referencias";
+        cantPedidos= 0;
     }
 }

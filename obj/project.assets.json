@@ -8,36 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Santi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\Nueva carpeta\\tl2-tp3-2022-Divitrion\\tl2-tp3-2022-Divitrion.csproj",
+      "projectUniqueName": "B:\\Xampp\\htdocs\\Tps\\Taller2\\TP03\\tl2-tp3-2022-Divitrion\\tl2-tp3-2022-Divitrion.csproj",
       "projectName": "tl2-tp3-2022-Divitrion",
-      "projectPath": "C:\\Users\\Alumno\\Desktop\\Nueva carpeta\\tl2-tp3-2022-Divitrion\\tl2-tp3-2022-Divitrion.csproj",
-      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\Desktop\\Nueva carpeta\\tl2-tp3-2022-Divitrion\\obj\\",
+      "projectPath": "B:\\Xampp\\htdocs\\Tps\\Taller2\\TP03\\tl2-tp3-2022-Divitrion\\tl2-tp3-2022-Divitrion.csproj",
+      "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
+      "outputPath": "B:\\Xampp\\htdocs\\Tps\\Taller2\\TP03\\tl2-tp3-2022-Divitrion\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Santi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
